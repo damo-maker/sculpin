@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "ed3116815b76c222b663ebf0fa3afa6d",
+    "content-hash": "69470c07933c809e3cf6b7334df7a640",
     "packages": [
         {
             "name": "dflydev/ant-path-matcher",
@@ -2104,21 +2104,22 @@
         },
         {
             "name": "symfony/filesystem",
-            "version": "v4.4.42",
+            "version": "v5.4.25",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/filesystem.git",
-                "reference": "815412ee8971209bd4c1eecd5f4f481eacd44bf5"
+                "reference": "0ce3a62c9579a53358d3a7eb6b3dfb79789a6364"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/filesystem/zipball/815412ee8971209bd4c1eecd5f4f481eacd44bf5",
-                "reference": "815412ee8971209bd4c1eecd5f4f481eacd44bf5",
+                "url": "https://api.github.com/repos/symfony/filesystem/zipball/0ce3a62c9579a53358d3a7eb6b3dfb79789a6364",
+                "reference": "0ce3a62c9579a53358d3a7eb6b3dfb79789a6364",
                 "shasum": ""
             },
             "require": {
-                "php": ">=7.1.3",
+                "php": ">=7.2.5",
                 "symfony/polyfill-ctype": "~1.8",
+                "symfony/polyfill-mbstring": "~1.8",
                 "symfony/polyfill-php80": "^1.16"
             },
             "type": "library",
@@ -2147,7 +2148,7 @@
             "description": "Provides basic utilities for the filesystem",
             "homepage": "https://symfony.com",
             "support": {
-                "source": "https://github.com/symfony/filesystem/tree/v4.4.42"
+                "source": "https://github.com/symfony/filesystem/tree/v5.4.25"
             },
             "funding": [
                 {
@@ -2163,7 +2164,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2022-05-20T08:49:14+00:00"
+            "time": "2023-05-31T13:04:02+00:00"
         },
         {
             "name": "symfony/finder",
