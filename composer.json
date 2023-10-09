@@ -34,7 +34,7 @@
         "symfony/dependency-injection": "^4.4.13",
         "symfony/event-dispatcher": "^4.4.13",
         "symfony/filesystem": "^5.4.25",
-        "symfony/finder": "^4.4.13",
+        "symfony/finder": "^5.4.27",
         "symfony/http-kernel": "^4.4.13",
         "symfony/yaml": "^5.3.14",
         "twig/twig": "^3.0",
